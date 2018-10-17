@@ -71,8 +71,8 @@ kapt {
 }
 
 apollo {
-  customTypeMapping["DateTime"] = "org.threeten.bp.Instant"
-  customTypeMapping["URI"] = "okhttp3.HttpUrl"
+//  customTypeMapping["DateTime"] = "org.threeten.bp.Instant"
+//  customTypeMapping["URI"] = "okhttp3.HttpUrl"
 }
 
 dependencies {

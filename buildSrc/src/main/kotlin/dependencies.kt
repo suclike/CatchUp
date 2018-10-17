@@ -56,7 +56,7 @@ object deps {
   object versions {
     const val androidTestSupport = "1.1.0-rc01"
     const val androidx = "1.0.0"
-    const val apollo = "1.0.0-alpha"
+    const val apollo = "1.0.0-alpha2"
     const val autodispose = "1.0.0"
     const val chuck = "1.1.0"
     const val crumb = "0.0.1"
